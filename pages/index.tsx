@@ -5,7 +5,7 @@ export default function Home() {
       <h2>this is another push</h2>
       <h3>change something</h3>
       <h3>change something</h3>
-      <h2>this is a branch</h2>
+      <h2>This is main branch</h2>
     </div>
   );
 }
