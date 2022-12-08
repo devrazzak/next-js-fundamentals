@@ -6,7 +6,6 @@ export default function Home() {
       <h3>change something</h3>
       <h3>change something</h3>
       <h2>this is a branch</h2>
-      <h2>this is a branch</h2>
     </div>
   );
 }
